@@ -1,0 +1,7 @@
+# Configuration file
+
+allocations {
+    I:channel88=896
+}
+
+
